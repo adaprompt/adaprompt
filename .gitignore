@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+/logs/*
+/data_unused/*
+/data_unused
+/outputs/*
+/models/stable-diffusion-v-1-4-original
+*.txt
+!requirements.txt
